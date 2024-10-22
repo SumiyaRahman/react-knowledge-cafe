@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './Components/Header'
 import Blogs from './Components/Blogs/Blogs'
+import Bookmarks from './Components/Bookmarks/Bookmarks'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -11,7 +12,10 @@ function App() {
   return (
     <>
       <Header></Header>
-      <Blogs></Blogs>
+      <main className='md:flex'>
+        <Blogs></Blogs>
+        <Bookmarks></Bookmarks>
+      </main>
     </>
   )
 }
