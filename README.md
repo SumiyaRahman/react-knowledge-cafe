@@ -6,16 +6,12 @@ Welcome to **Blogs React**, a simple, elegant, and fully responsive blog platfor
 ## 🌐 Live Demo  
 Check out the live version here 👉 [Blogs React](https://blogs-react.surge.sh/)
 
----
-
 ## ✨ Features
 
 - **Dynamic Blog Posts**: Display a list of engaging blog posts with options for more details.
 - **Responsive Design**: Enjoy a seamless experience on any device with mobile-first design.
 - **Modern UI**: Built with clean design patterns to provide a great user experience.
 - **Fast and Efficient**: Optimized for performance with React’s powerful rendering techniques.
-
----
 
 ## 🚀 Technologies Used
 
