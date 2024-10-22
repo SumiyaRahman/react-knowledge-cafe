@@ -23,5 +23,3 @@ Check out the live version here 👉 [Blogs React](https://blogs-react.surge.sh/
 - **React Hooks**: Manage component state and lifecycle in a functional way.
 - **CSS3**: For clean and responsive styling.
 - **Surge**: Deployed on Surge for easy and fast hosting.
-
----
