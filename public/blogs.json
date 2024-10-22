@@ -3,8 +3,9 @@
       "id": 1,
       "cover": "https://i.ibb.co.com/fxD6Vq1/7085760.jpg",
       "title": "Understanding JSON: A Beginner's Guide",
+      "author_name": "Sarah Miller",
       "author_img": "https://i.ibb.co.com/6v3FRjp/pexels-olly-762020.jpg",
-      "posted_date": "2024-10-01",
+      "posted_date": "Oct 18 (4 days ago)",
       "reading_time": 5,
       "hashtags": ["#JSON", "#Programming", "#Guide"]
     },
@@ -12,8 +13,9 @@
       "id": 2,
       "cover": "https://i.ibb.co.com/q9Hrp9L/7489233.jpg",
       "title": "Mastering APIs with Python",
+      "author_name": "Emily Davis",
       "author_img": "https://i.ibb.co.com/2YJ597K/pexels-olly-733872.jpg",
-      "posted_date": "2024-09-25",
+      "posted_date": "Sep 29 (23 days ago)",
       "reading_time": 8,
       "hashtags": ["#APIs", "#Python", "#Development"]
     },
@@ -21,8 +23,9 @@
       "id": 3,
       "cover": "https://i.ibb.co.com/bQpK41W/pexels-picography-4458.jpg",
       "title": "The Future of AI: Trends to Watch",
+      "author_name": "Jessica Wilson",
       "author_img": "https://i.ibb.co.com/6ZWf2yP/pexels-olly-774909.jpg",
-      "posted_date": "2024-10-10",
+      "posted_date": "Oct 8 (14 days ago)",
       "reading_time": 10,
       "hashtags": ["#AI", "#Future", "#Trends"]
     },
@@ -30,8 +33,9 @@
       "id": 4,
       "cover": "https://i.ibb.co.com/0ZkgrN9/pexels-pixabay-265667.jpg",
       "title": "Building Responsive Websites",
+      "author_name": "James Brown",
       "author_img": "https://i.ibb.co.com/9st2CNY/pexels-andrewperformance1-697509.jpg",
-      "posted_date": "2024-10-05",
+      "posted_date": "Oct 5 (17 days ago)",
       "reading_time": 6,
       "hashtags": ["#WebDevelopment", "#ResponsiveDesign", "#CSS"]
     },
@@ -39,8 +43,9 @@
       "id": 5,
       "cover": "https://i.ibb.co.com/bQpK41W/pexels-picography-4458.jpg",
       "title": "Exploring Cloud Computing for Beginners",
+      "author_name": "Laura Thompson",
       "author_img": "https://i.ibb.co.com/YWg2Xps/pexels-pixabay-415829.jpg",
-      "posted_date": "2024-09-30",
+      "posted_date": "Sep 30 (22 days ago)",
       "reading_time": 7,
       "hashtags": ["#CloudComputing", "#Technology", "#BeginnerGuide"]
     }
