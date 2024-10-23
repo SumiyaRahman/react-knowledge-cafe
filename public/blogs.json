@@ -1,8 +1,8 @@
 [
     {
       "id": 1,
-      "cover": "https://i.ibb.co.com/fxD6Vq1/7085760.jpg",
-      "title": "Understanding JSON: A Beginner's Guide",
+      "cover": "https://i.ibb.co.com/sm6wWM4/2955425.jpg",
+      "title": "Understanding React: A Beginner's Guide",
       "author_name": "Sarah Miller",
       "author_img": "https://i.ibb.co.com/6v3FRjp/pexels-olly-762020.jpg",
       "posted_date": "Oct 18 (4 days ago)",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "cover": "https://i.ibb.co.com/q9Hrp9L/7489233.jpg",
+      "cover": "https://i.ibb.co.com/D1DKsCq/Set-of-programmers-02-02.jpg",
       "title": "Mastering APIs with Python",
       "author_name": "Emily Davis",
       "author_img": "https://i.ibb.co.com/2YJ597K/pexels-olly-733872.jpg",
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "cover": "https://i.ibb.co.com/bQpK41W/pexels-picography-4458.jpg",
+      "cover": "https://i.ibb.co.com/94XSfcD/a2ddc095-c606-4655-8b73-ec36f90df07e.jpg",
       "title": "The Future of AI: Trends to Watch",
       "author_name": "Jessica Wilson",
       "author_img": "https://i.ibb.co.com/6ZWf2yP/pexels-olly-774909.jpg",
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "cover": "https://i.ibb.co.com/0ZkgrN9/pexels-pixabay-265667.jpg",
+      "cover": "https://i.ibb.co.com/y4rdhKx/7494988.jpg",
       "title": "Building Responsive Websites",
       "author_name": "James Brown",
       "author_img": "https://i.ibb.co.com/9st2CNY/pexels-andrewperformance1-697509.jpg",
@@ -41,7 +41,7 @@
     },
     {
       "id": 5,
-      "cover": "https://i.ibb.co.com/bQpK41W/pexels-picography-4458.jpg",
+      "cover": "https://i.ibb.co.com/PrC9HWM/964.jpg",
       "title": "Exploring Cloud Computing for Beginners",
       "author_name": "Laura Thompson",
       "author_img": "https://i.ibb.co.com/YWg2Xps/pexels-pixabay-415829.jpg",
