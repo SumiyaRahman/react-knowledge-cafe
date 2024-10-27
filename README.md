@@ -15,7 +15,17 @@ Check out the live version here 👉 [Blogs React](https://blogs-react.surge.sh/
 
 ## 🚀 Technologies Used
 
+
+- **HTML/CSS**: For structuring and styling the content.
+- **Tailwind CSS**: Utility-first CSS framework for fast UI development.
+- **DaisyUI**: Tailwind-based component library for pre-built design elements.
 - **React**: Frontend framework for building interactive user interfaces.
-- **React Hooks**: Manage component state and lifecycle in a functional way.
-- **CSS3**: For clean and responsive styling.
 - **Surge**: Deployed on Surge for easy and fast hosting.
+
+## 📚 Concepts Covered
+
+1. **Components**: Modular and reusable building blocks.
+2. **Props**: Passing data from parent to child components.
+3. **React Hooks**:
+   - `useState`: Handling component-level state.
+   - `useEffect`: Managing side effects in components.
