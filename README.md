@@ -1,10 +1,10 @@
-# Blogs React 📚  
+# Knowledge Cafe 📚  
 **A Modern Blog Platform Built with React**  
 
 Welcome to **Blogs React**, a simple, elegant, and fully responsive blog platform developed using React. This project showcases the power of React in creating dynamic web applications with a clean, intuitive user interface.
 
 ## 🌐 Live Demo  
-Check out the live version here 👉 [Blogs React](https://blogs-react.surge.sh/)
+Check out the live version here 👉 [Knowledge Cafe](https://blogs-react.surge.sh/)
 
 ## ✨ Features
 
